@@ -26,33 +26,38 @@ The last notebook shows some examples of generated animations.
 
 # Results
 
-**Animation 1:** Monthly heat demand, as average hourly heat demand, through
-the year
 
 <video poster="poster.png" controls>
   <source src="https://raw.githubusercontent.com/emunozh/visualizing-heat-demand-data/master/maps/2010-01-01%20to%202010-12-01_month.webm" type='video/webm; codecs="vp8, vorbis"' />
 </video>
 
-**Animation 2:** Daily heat demand, as sum of hourly heat demand, for February
+**Animation 1:** [Monthly heat demand](https://raw.githubusercontent.com/emunozh/visualizing-heat-demand-data/master/maps/2010-01-01%20to%202010-12-01_month.webm)
+, as average hourly heat demand, through the year
 
 <video poster="poster.png" controls>
   <source src="https://raw.githubusercontent.com/emunozh/visualizing-heat-demand-data/master/maps/2010-02-01%20to%202010-02-28_day.webm" type='video/webm; codecs="vp8, vorbis"' />
 </video>
 
-**Animation 3:** Daily heat demand, as sum of hourly heat demand, for August
+**Animation 2:** [Daily heat demand](https://raw.githubusercontent.com/emunozh/visualizing-heat-demand-data/master/maps/2010-02-01%20to%202010-02-28_day.webm)
+, as sum of hourly heat demand, for February
 
 <video poster="poster.png" controls>
   <source src="https://raw.githubusercontent.com/emunozh/visualizing-heat-demand-data/master/maps/2010-08-01%20to%202010-08-31_day.webm" type='video/webm; codecs="vp8, vorbis"' />
 </video>
 
-**Animation 4:** Daily heat demand for the 21 of January
+**Animation 3:** [Daily heat demand](https://raw.githubusercontent.com/emunozh/visualizing-heat-demand-data/master/maps/2010-08-01%20to%202010-08-31_day.webm)
+, as sum of hourly heat demand, for August
 
 <video poster="poster.png" controls>
   <source src="https://raw.githubusercontent.com/emunozh/visualizing-heat-demand-data/master/maps/2010-01-21%2000:00:00%20to%202010-01-21%2023:00:00.webm" type='video/webm; codecs="vp8, vorbis"' />
 </video>
 
-**Animation 5:** Daily heat demand for the 21 of June
+**Animation 4:** [Daily heat demand](https://raw.githubusercontent.com/emunozh/visualizing-heat-demand-data/master/maps/2010-01-21%2000:00:00%20to%202010-01-21%2023:00:00.webm)
+for the 21 of January
 
 <video poster="poster.png" controls>
   <source src="https://raw.githubusercontent.com/emunozh/visualizing-heat-demand-data/master/maps/2010-06-21%2000:00:00%20to%202010-06-21%2023:00:00.webm" type='video/webm; codecs="vp8, vorbis"' />
 </video>
+
+**Animation 5:** [Daily heat demand](https://raw.githubusercontent.com/emunozh/visualizing-heat-demand-data/master/maps/2010-06-21%2000:00:00%20to%202010-06-21%2023:00:00.webm)
+for the 21 of June
